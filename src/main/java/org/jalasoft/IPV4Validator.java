@@ -4,7 +4,6 @@ package org.jalasoft;
  */
 public class IPV4Validator {
 
-    
     public boolean matchIPv4(final String ip) {
         
         //String ipRegex = "\b\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}\b";

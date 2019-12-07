@@ -31,7 +31,5 @@ import org.junit.Test;
         assertEquals(expected3, findRepeated.findIntRepeated(array3));
         assertEquals(expected4, findRepeated.findIntRepeated(array4));
 
-        // Assert
-
      }
  }
